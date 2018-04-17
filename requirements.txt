@@ -1,0 +1,10 @@
+os
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+shapely
+unidecode 
+locale
+calendar
