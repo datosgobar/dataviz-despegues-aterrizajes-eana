@@ -15,9 +15,9 @@ Para descargar/actualizar el recurso con los datos de los vuelos, ejecutar:
 
 ## Detalle
 
-El Jupyter Notebook llamado _eana_animación.ypnb_ genera una animación con los vuelos de cabotaje de un día, y presenta datos de contexto: cantidad de aviones en el aire para el día elegido, y regiones argentinas con mayor actividad.
+El Jupyter Notebook llamado _[eana_animación.ypnb](https://github.com/datosgobar/dataviz-despegues-aterrizajes-eana/blob/master/eana_animacion.ipynb)_ genera una animación con los vuelos de cabotaje de un día, y presenta datos de contexto: cantidad de aviones en el aire para el día elegido, y regiones argentinas con mayor actividad.
 
-El Jupyter Notebook llamado _eana_preguntas.ypnb_ aporta respuestas a las siguientes cuestiones:
+El Jupyter Notebook llamado _[eana_preguntas.ypnb](https://github.com/datosgobar/dataviz-despegues-aterrizajes-eana/blob/master/eana_preguntas.ipynb)_ aporta respuestas a las siguientes cuestiones:
 - ¿Para los años comprendidos, desde qué aeropuerto extranjero llegan más vuelos?
 - ¿Para los años comprendidos, hacia qué aeropuerto extranjero parten más vuelos?
 - Mapa con los aeropuertos nacionales en función a la actividad registrada.
